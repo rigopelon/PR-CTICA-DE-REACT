@@ -20,7 +20,7 @@ const testimonios = [
         foto: 'https://i.pravatar.cc/150?img=50'
     },
     {
-        id: 5, nombre: 'Lucia Sakura', cargo: 'Diseño',
+        id: 5, nombre: 'Tomocha Sakura', cargo: 'Diseño',
         texto: 'La interfaz es sencilla y fácil de utilizar.',
         foto: 'https://i.pravatar.cc/150?img=40'
     }
