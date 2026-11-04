@@ -23,6 +23,21 @@ const testimonios = [
         id: 5, nombre: 'Tomocha Sakura', cargo: 'Diseño',
         texto: 'La interfaz es sencilla y fácil de utilizar.',
         foto: 'https://i.pravatar.cc/150?img=40'
+    },
+    {
+        id: 6, nombre: 'Sofía Ramírez', cargo: 'Soporte técnico',
+        texto: 'Resolver las dudas de los clientes ahora nos toma mucho menos tiempo.',
+        foto: 'https://i.pravatar.cc/150?img=5'
+    },
+    {
+        id: 7, nombre: 'Javier Hernández', cargo: 'Gerencia de proyectos',
+        texto: 'Con esta plataforma el equipo cumple sus entregas con más orden y seguimiento.',
+        foto: 'https://i.pravatar.cc/150?img=24'
+    },
+    {
+        id: 8, nombre: 'Valeria Torres', cargo: 'Atención a clientes',
+        texto: 'Mis clientes comentan que el servicio es claro, rápido y fácil de seguir.',
+        foto: 'https://i.pravatar.cc/150?img=60'
     }
 ];
 export default testimonios;
